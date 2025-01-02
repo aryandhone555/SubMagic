@@ -1,0 +1,5 @@
+tk
+ffmpeg-python
+moviepy
+openai-whisper
+torch
