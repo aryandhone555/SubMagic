@@ -1,6 +1,4 @@
 # SubMagic
-![Subtitle Buddy Icon](er.aryan.jpg)
-
 This is a Python-based desktop application that allows users to add subtitles to videos using audio transcription. The application uses OpenAI's Whisper model for audio transcription and MoviePy for adding subtitles to videos.
 
 ## Features
